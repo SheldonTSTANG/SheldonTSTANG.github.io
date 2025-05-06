@@ -57,7 +57,7 @@ This page provides a comparison between **Workstation PCs** and **Gaming PCs**, 
 
 - Each section can be expanded in the future to include specific build recommendations or benchmarking links.
 
-# review.htm
+# review.html
 
 ## About
 
